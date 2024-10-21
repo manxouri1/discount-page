@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Congratulations!</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin-top: 50px;
+        }
+        h1 {
+            color: #4CAF50;
+        }
+        p {
+            font-size: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Congratulations! 🎉</h1>
+    <p>You’ve earned a 5% discount on your next order.</p>
+    <p>Use code: <strong>FIVEOFF</strong> at checkout!</p>
+</body>
+</html>
